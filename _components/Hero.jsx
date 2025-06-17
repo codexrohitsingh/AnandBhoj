@@ -6,12 +6,12 @@ export default function Hero() {
   // Sample images - these can be replaced from the dashboard later
   const images = [
     "https://pbs.twimg.com/media/GPSC_rJXgAAJVeo?format=jpg&name=small",
-    // "https://pbs.twimg.com/media/GC5ryNTXIAAqjZf?format=jpg&name=small",
-    // "https://pbs.twimg.com/media/FVrjqdOUcAEyK-s?format=jpg&name=360x360",
-    // "https://pbs.twimg.com/media/FVrjq5CUcAA0B8T?format=jpg&name=360x360",
-    // "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
-    // "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
-    // "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&h=600&fit=crop",
+    "https://pbs.twimg.com/media/GC5ryNTXIAAqjZf?format=jpg&name=small",
+    "https://pbs.twimg.com/media/FVrjqdOUcAEyK-s?format=jpg&name=360x360",
+    "https://pbs.twimg.com/media/FVrjq5CUcAA0B8T?format=jpg&name=360x360",
+    "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&h=600&fit=crop",
   ];
 
   useEffect(() => {
