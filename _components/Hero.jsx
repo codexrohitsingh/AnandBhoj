@@ -6,7 +6,7 @@ export default function Hero() {
   // Sample images - these can be replaced from the dashboard later
   const images = [
     "https://scontent.fixr3-2.fna.fbcdn.net/v/t45.1600-4/508156642_1972304163336656_3152603350065545101_n.jpg?stp=c0.113.945.945a_cp0_dst-jpg_q75_s565x565_spS444_tt6&_nc_cat=104&ccb=1-7&_nc_sid=c02adf&_nc_ohc=hD3PRsOzLqwQ7kNvwHJZHDj&_nc_oc=AdmItFiepi1kDvW9ICRUNpkWf95jEwrSAMhnRKt_06RGfTh_jRqE9cpvFY-HDVGCHzntZ53UOoqIwDgocvSctifT&_nc_zt=1&_nc_ht=scontent.fixr3-2.fna&_nc_gid=B6MJRT01nL1sicky-WsmNQ&oh=00_AfMxkBiLRy4AV6b6Z8SeX4Sgv8XYeQsYhPHEFOxzYroLAw&oe=6856E0BE",
-    "https://pbs.twimg.com/media/FefFyZHaMAAxNfC?format=jpg&name=small",
+    "https://pbs.twimg.com/media/FefFyZHaMAAxNfC?format=jpg&name=small&w=800&h=600",
     "https://pbs.twimg.com/media/GPSC_rJXgAAJVeo?format=jpg&name=small",
     "https://pbs.twimg.com/media/GC5ryNTXIAAqjZf?format=jpg&name=small",
     "https://pbs.twimg.com/media/FVrjqdOUcAEyK-s?format=jpg&name=360x360",

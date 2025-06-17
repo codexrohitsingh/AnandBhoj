@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <nav className="bg-white shadow-md sticky top-0 z-50">
       <div className="w-screen mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-around h-16 items-center">
+        <div className="flex justify-between h-16 items-center">
           {/* Logo and Name */}
           <div className="flex items-center space-x-2">
             <div className="text-2xl font-bold text-red-600">AnandBhoj</div>
@@ -12,7 +12,7 @@ export default function Navbar() {
           </div>
 
           {/* Nav Links */}
-          <div className="hidden md:flex space-x-6">
+          {/* <div className="hidden md:flex space-x-6">
             <a href="#" className="text-gray-700 hover:text-red-600 transition">
               Home
             </a>
@@ -26,7 +26,7 @@ export default function Navbar() {
               className="text-gray-700 hover:text-red-600 transition">
               Contact
             </a>
-          </div>
+          </div> */}
 
           {/* Special Tuesday Banner */}
           <div className="hidden lg:block">
